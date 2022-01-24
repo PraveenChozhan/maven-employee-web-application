@@ -101,7 +101,7 @@
 	</distributionManagement>  
 
 	<build>
-		<finalName>employee-demo-release</finalName>
+		<finalName>employee-demo</finalName>
 		<plugins>
 			<plugin>
 				<groupId>org.apache.maven.plugins</groupId>
