@@ -1,3 +1,4 @@
+[![Build Status](http://65.0.108.6:8080/buildStatus/icon?job=maven-demo)](http://65.0.108.6:8080/job/maven-demo/)
 # maven-employee-web-application
 maven-employee-web-application
 # How to build
